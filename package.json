@@ -1,13 +1,14 @@
 {
-  "name": "hello-react",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "Simple React App",
+  "description": "React Boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Josiah Mory",
   "license": "MIT",
+  "repository": "https://github.com/kickinbahk/react-boilerplate.git",
   "dependencies": {
     "express": "^4.13.4",
     "react": "^0.14.7",
