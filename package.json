@@ -24,10 +24,5 @@
     "eslint-plugin-standard": "^1.3.2",
     "webpack": "^1.12.13"
   },
-  "standard": {
-    "globals": [
-      "React",
-      "ReactDOM"
-    ]
-  }
+  "standard": {}
 }
